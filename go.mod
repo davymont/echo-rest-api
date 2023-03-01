@@ -20,7 +20,7 @@ require (
 	github.com/open-policy-agent/opa v0.44.0
 	github.com/ory/kratos-client-go v0.10.1
 	github.com/spf13/cobra v1.5.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.2
 	github.com/swaggo/echo-swagger v1.3.4
 	github.com/swaggo/swag v1.8.5
 	github.com/tidwall/gjson v1.14.3
